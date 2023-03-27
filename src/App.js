@@ -2,7 +2,7 @@ import './App.css';
 import SignIn from './components/SignIn.js';
 
 
-function App() {
+function App() { 
   return (
     <div className="App">
       <SignIn />
